@@ -1,2 +1,2 @@
-# jurassic-fuck
-Tinder like web app made in 24 hours for Academia de Código
+Dating app for elderly people. Done in 24 hours, as a group project for the Hackathon at Academia de Código.
+Used Firebase and React.
